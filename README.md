@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**StavZ/StavZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects I'm working on
+- [hypixel-api-reborn](https://guthub.com/StavZ/hypixel-api-reborn) - A Hypixel Public API client for Node.js.
+- [Vexond](https://discord.com/oauth2/authorize?client_id=719443063554179082&scope=bot&permissions=67632326) - Discord Bot with many useful features.
 
-Here are some ideas to get you started:
+## Languages
+- JavaScript
+  - Node.js
+  - TypeScript
+- Java (a little)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Vexond Team
+- [Discord Server](https://discord.gg/c4pnctc) <br>
+
+- Members: <br>
+  - [StavZDev](https://github.com/StavZ) — Founder | Node.js Developer <br>
+  - [EnderXH](https://github.com/EnderXH) — Co-Founder | Java, Rust Developer <br>
+
+## Contact
+- Twitter — https://twitter.com/StavZDev
