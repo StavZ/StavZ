@@ -3,6 +3,7 @@
 ## Projects I'm working on
 - [hypixel-api-reborn](https://guthub.com/StavZ/hypixel-api-reborn) - A Hypixel Public API client for Node.js.
 - [Vexond](https://discord.com/oauth2/authorize?client_id=719443063554179082&scope=bot&permissions=67632326) - Discord Bot with many useful features.
+- [powercord-hypixel-stats](https://github.com/StavZ/powercord-hypixel-stats) - A [powercord](https://github.com/powercord-org) plugin that allows get player's and guild's statistics by in-chat commands.
 
 ## Languages
 - JavaScript
