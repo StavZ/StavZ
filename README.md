@@ -12,6 +12,7 @@
 - Java (a little)
 
 ## Vexond Team
+Community of developers <br>
 - [Discord Server](https://discord.gg/c4pnctc) <br>
 
 - Members: <br>
