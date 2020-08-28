@@ -21,7 +21,7 @@ Community of developers <br>
   - [StavZDev](https://github.com/StavZ) — Founder • Node.js Developer <br>
   - [EnderXH](https://github.com/EnderXH) — Co-Founder • Java, Rust Developer <br>
 
-## Contact & Links
+## Contacts & Links
 - Twitter — https://twitter.com/StavZDev
 - Discord — `StavZDev#6469`
 - Patreon (Give me a hug 💖) — https://patreon.com/hypixelapireborn
