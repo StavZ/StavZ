@@ -10,16 +10,7 @@
 ## Languages
 - JavaScript
   - Node.js
-  - TypeScript
-- Java (a little)
-
-## Vexond Team
-Community of developers <br>
-- [Discord Server](https://discord.gg/c4pnctc) <br>
-
-- Members: <br>
-  - [StavZDev](https://github.com/StavZ) — Founder • Node.js Developer <br>
-  - [EnderXH](https://github.com/EnderXH) — Co-Founder • Java, Rust Developer <br>
+- TypeScript
 
 ## Contacts & Links
 - Twitter — https://twitter.com/StavZDev
