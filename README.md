@@ -12,6 +12,7 @@
 - TypeScript
 
 ## Contacts & Links
+- VK — https://vk.com/stavzdev
 - Twitter — https://twitter.com/StavZDev
 - Discord — `StavZDev#6469`
 - Patreon (Give me a hug 💖) — https://patreon.com/hypixelapireborn
