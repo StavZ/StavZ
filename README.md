@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Projects I'm working on
-- [hypixel-api-reborn](https://github.com/Hypixel-API-Reborn/hypixel-api-reborn) — Feature-rich [Hypixel API](https://api.hypixel.net) wrapper for Node.js.
+- [hypixel-api-reborn](https://github.com/Hypixel-API-Reborn/hypixel-api-reborn) — A feature-rich [Hypixel API](https://api.hypixel.net) wrapper for Node.js.
 - [timetable-telegram-bot](https://github.com/StavZ/timetable-telegram-bot) — A [Telegram bot](https://t.me/ppkslavyanovabot) that automatically sends the class timetable from my college website.
 - ~~[powercord-hypixel-stats](https://github.com/StavZ/powercord-hypixel-stats) — A [powercord](https://github.com/powercord-org) plugin that allows get hypixel player's and guild's statistics by in-chat commands.~~
 
