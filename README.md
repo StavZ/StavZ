@@ -13,7 +13,6 @@
 - VK — https://vk.com/stavzdev
 - Twitter — https://twitter.com/StavZDev
 - Discord — `StavZDev#6469`
-- Telegram — [@stavzdev](tg://resolve?domain=stavzdev)
 
 ## Website
 https://stavzdev.me
