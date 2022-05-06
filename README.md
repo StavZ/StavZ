@@ -12,7 +12,7 @@
 ## Contacts & Links
 - VK — https://vk.com/stavzdev
 - Twitter — https://twitter.com/StavZDev
-- Discord — `StavZDev#6469`
+- Discord — `stavzdev#6469`
 
 ## Website
 https://stavzdev.me
