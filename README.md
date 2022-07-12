@@ -15,4 +15,4 @@
 - Discord — `stavzdev#6469`
 
 ## Website
-https://stavzdev.me
+https://stavz.github.io
