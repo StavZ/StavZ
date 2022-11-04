@@ -2,7 +2,7 @@
 
 ## Projects I'm working on
 - [hypixel-api-reborn](https://github.com/Hypixel-API-Reborn/hypixel-api-reborn) — A feature-rich [Hypixel API](https://api.hypixel.net) wrapper for Node.js.
-- [timetable-telegram-bot](https://github.com/StavZ/timetable-telegram-bot) — A [Telegram bot](https://t.me/ppkslavyanovabot) that automatically sends the class timetable from my college website.
+- [PRIVATE] [timetable-telegram-bot](https://github.com/StavZ/timetable-telegram-bot) — A [Telegram bot](https://t.me/ppkslavyanovabot) that automatically sends the class timetable from my college website.
 
 ## Languages
 - JavaScript
