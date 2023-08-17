@@ -13,6 +13,3 @@
 - VK — https://vk.com/stavzdev
 - Twitter — https://twitter.com/StavZDev
 - Discord — `stavzdev#6469`
-
-## Website
-https://stavzdev.ninja
