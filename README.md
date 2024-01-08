@@ -11,5 +11,6 @@
 
 ## Contacts & Links
 - VK — https://vk.com/stavzdev
+- Telegram - https://t.me/stavzdev
 - Twitter — https://twitter.com/StavZDev
 - Discord — `stavzdev#6469`
