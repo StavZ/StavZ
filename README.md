@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ## Projects I'm working on
-- [hypixel-api-reborn](https://github.com/Hypixel-API-Reborn/hypixel-api-reborn) — A feature-rich [Hypixel API](https://api.hypixel.net) wrapper for Node.js.
-- [PRIVATE] [timetable-telegram-bot](https://github.com/StavZ/timetable-telegram-bot) — A [Telegram bot](https://t.me/ppkslavyanovabot) that automatically sends the class timetable from my college website.
+- [Maintained by [@Kathund](https://github.com/Kathund)] [hypixel-api-reborn](https://github.com/Hypixel-API-Reborn/hypixel-api-reborn) — A feature-rich [Hypixel API](https://api.hypixel.net) wrapper for Node.js.
+- [Closed] [timetable-telegram-bot](https://github.com/StavZ/timetable-telegram-bot) — A [Telegram bot](https://t.me/ppkslavyanovabot) that automatically sends the class timetable from my college website.
 
 ## Languages
 - JavaScript
@@ -12,5 +12,4 @@
 ## Contacts & Links
 - VK — https://vk.com/stavzdev
 - Telegram - https://t.me/stavzdev
-- Twitter — https://twitter.com/StavZDev
-- Discord — `stavzdev#6469`
+- Discord — stavzdev
