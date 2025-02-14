@@ -10,6 +10,5 @@
 - TypeScript
 
 ## Contacts & Links
-- VK — https://vk.com/stavzdev
 - Telegram - https://t.me/stavzdev
 - Discord — stavzdev
